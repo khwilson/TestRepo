@@ -1,9 +1,10 @@
 <p align="center">
-# Kevin Wilson
+<h1>Kevin Wilson</h1>
 </p>
+<hr>
 
 <p align="center">
-![Picture of Me](https://kevinhayeswilson.com/images/me.jpg)
+<img src="https://kevinhayeswilson.com/images/me.jpg">
 </p>
 
 ## Papers
