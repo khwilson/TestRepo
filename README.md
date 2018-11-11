@@ -1,7 +1,6 @@
 <p align="center">
-<h1>Kevin Wilson</h1>
+<h1 align="center">Kevin Wilson</h1>
 </p>
-<hr>
 
 <p align="center">
 <img src="https://kevinhayeswilson.com/images/me.jpg">
