@@ -1,6 +1,10 @@
+<p align="center">
 # Kevin Wilson
+</p>
 
+<p align="center">
 ![Picture of Me](https://kevinhayeswilson.com/images/me.jpg)
+</p>
 
 ## Papers
 
